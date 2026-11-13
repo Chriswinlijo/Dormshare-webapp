@@ -28,26 +28,50 @@ How it Works:
 
 The application will be a web-based platform that students can access through their computers, tablets or mobile phones.
 Students will first create an account and log in. They will be able to create a personal profile containing basic information, such as their name, university email address and accommodation details.
-Once logged in, students can browse available items listed by other students. Items will be organised into different categories to make searching easier. Examples of categories include:
+Once logged in, students can browse available items listed by other students. Items will be organised into different categories to 
+make searching easier. Examples of categories include:
+
  	Kitchen equipment (toasters, kettles and air fryers).
+  
  	Cleaning equipment (vacuum cleaners, mops and irons).
+  
  	Technology (chargers, keyboards and monitors).
+  
  	Tools (screwdrivers, drills and toolkits).
+  
  	Travel items (suitcases and travel accessories).
+  
+  
  	Sports and leisure equipment.
+  
+
+  
 When a student finds something, they need, they can select the item to view more information. This will include an image, description, rental price in coins, availability and the student who owns it.
 The student can then request to rent the item. The owner can accept or reject the request. If accepted, the students can arrange when and where the item will be collected and returned.
 Once the rental is completed, the coins are transferred to the owner.
+
+
+
 Gamification and Virtual Coin System:
+
+
 One of the main features of the application is its gamification system. Gamification means using game-like features, such as points, rewards, levels and achievements, to encourage people to use an application.
 Instead of using real money, students will use virtual coins to rent items. This means students do not need to connect bank accounts or make payments through the application.
 Students can earn coins by lending their belongings to other students. For example, if a student lends their vacuum cleaner to someone for two days, they could receive 10 coins once the rental is completed.
 The coins earned can then be used to rent other items from different students. This creates a system where students benefit from helping one another.
-The application could also include additional rewards to make the experience more interesting. For example:
+The application could also include additional rewards to make the experience more interesting. 
+
+For example:
+
  	Levels: Students can progress through different levels depending on how many successful rentals they complete.
+  
  	Badges: Students can earn badges for lending items regularly or helping other students.
+  
  	Achievements: Rewards could be given for completing their first rental or lending five different items.
+  
  	Leaderboards: Students could see who has earned the most coins or completed the most rentals.
+
+  
 These features are designed to make sharing more enjoyable and encourage students to participate in the community.
 
 
