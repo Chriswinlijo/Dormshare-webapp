@@ -1,7 +1,12 @@
 University Rent & Lend – DormShare
 
 
+
+
 Introduction:
+
+
+
 
 
 University Rent & Lend is a web application designed to allow students living in university accommodation to rent and lend items to one another. The main idea behind the application is to help students save money by sharing items they only need for a short period of time, rather than having to buy them. Many students spend money on items that they might only use once or twice. For example, a student might need a screwdriver, a vacuum cleaner, a printer, a cooking appliance or a particular piece of equipment for a short period. Instead of buying these items, students can use the application to find another student who is willing to lend them.
