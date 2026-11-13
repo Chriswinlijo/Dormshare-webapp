@@ -83,6 +83,9 @@ These features will help create a safer and more reliable sharing environment.
 
 
 Overall Aim:
+
+
+
 The overall aim of University Rent & Lend is to create a convenient and affordable way for university students to share everyday items within their accommodation.
 The application provides an alternative to buying items that students might only need temporarily. By introducing virtual coins and gamification, it encourages students to lend their belongings and earn rewards rather than allowing useful items to go unused.
 Ultimately, the application is about saving money, reducing waste and building a helpful student community. It allows students to benefit from what others already own while giving them an opportunity to share their own belongings in return.
